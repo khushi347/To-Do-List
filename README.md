@@ -5,7 +5,7 @@ A simple and interactive **To-Do List Application** built with **HTML, CSS, and 
 ## ✨ Features
 - Add, complete, and delete tasks
 - Clean and responsive UI
-- *(Optional)* Save tasks with localStorage
+-  Save tasks with localStorage
 
 ## 🛠️ Tech Stack
 HTML • CSS • JavaScript
